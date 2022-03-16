@@ -1,2 +1,2 @@
-# galaw
-Mathematics
+
+X² + 6x + 9
